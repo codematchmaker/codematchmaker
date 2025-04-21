@@ -1,16 +1,15 @@
-## Hi there 👋
+# About me
 
-<!--
-**codematchmaker/codematchmaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Maria Camila   
+I believe recruitment is less about checklists, and more about discovering where people truly belong. Guided by curiosity, presence, and genuine human connection.
+I work closely with developers and tech professionals to help them discover roles where they can **grow**, **feel valued**, and **build meaningful things**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A few things about me:
+- 🔍 I specialize in tech matchmaking with a human-first approach
+- 🌱 I’m always learning — especially about people
+- 🧠 I love deep conversations, creativity, and emotional intelligence
+- 🧰 I'm building a GitHub space to share roles and career tips
+
+Let’s connect!
