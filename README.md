@@ -7,9 +7,9 @@ I work closely with developers and tech professionals to help them discover role
 ---
 
 ### A few things about me:
-- 🔍 I specialize in tech matchmaking with a human-first approach
-- 🌱 I’m always learning, especially about people
-- 🧠 I love deep conversations, creativity, and emotional intelligence
-- 🧰 I'm building a GitHub space to share roles and career tips
+- I specialize in tech matchmaking with a human-first approach
+- I’m always learning, especially about people
+- I love deep conversations, creativity, and emotional intelligence
+- I'm building a GitHub space to share roles and career tips
 
 Let’s connect!
